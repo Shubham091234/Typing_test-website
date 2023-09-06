@@ -1,4 +1,8 @@
 /* Default styles for larger screens */
+
+
+
+
 body {
     font-family: Arial, sans-serif;
     text-align: center;
@@ -8,6 +12,9 @@ body {
     font-family: "Trirong", serif;
     background-repeat: no-repeat;
     background-size: cover;
+    padding: 0%;
+    margin: auto;
+   
   
     
 }
@@ -106,10 +113,19 @@ h1{
 
 /* Media query for smaller screens */
 @media (max-width: 768px) {
+
+
+    body{
+
+
+margin:300px 0px;
+
+    }
     .container {
         margin-top: 10px; 
         width: 50%;
-        height: 70%;
+        height: auto;
+        padding: 40px;
     }
 
     .timer {
@@ -132,7 +148,7 @@ h1{
         padding-left: 1px;
     }
     .info p {
-        margin: 1px;
+        margin: 6px;
         
     }
 

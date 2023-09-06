@@ -49,10 +49,12 @@ h1{
     font-size: 32px;
     background-color: rgba(253, 249, 249, 0.2);
     color: antiquewhite;
-    
-    
 }
 
+::placeholder{
+    color:rgb(251, 255, 0);
+    opacity: .6;
+}
 
 .info {
     font-size: 26px;

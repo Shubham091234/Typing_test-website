@@ -122,10 +122,10 @@ margin:300px 0px;
 
     }
     .container {
-        margin-top: 10px; 
-        width: 50%;
+        margin-top: 1px; 
+        width: 68%;
         height: auto;
-        padding: 40px;
+        padding: 20px;
     }
 
     .timer {
@@ -145,10 +145,10 @@ h1{
         font-size: 9.5px;
         margin-top: 10px; 
         margin-bottom: 50px; 
-        padding-left: 1px;
+        padding-left: 35px;
     }
     .info p {
-        margin: 6px;
+        margin: 8px;
         
     }
 

@@ -27,7 +27,7 @@ body {
     margin-top: 20px;
     background-color: rgba(255, 255, 255, .1);
     border-radius: 12px;
-    backdrop-filter: blur(5px) saturate(280%);
+    backdrop-filter: blur(5px) saturate(140%);
 }
 
 
@@ -118,7 +118,8 @@ h1{
     body{
 
 
-margin:300px 0px;
+margin-top:130px;
+margin-bottom: 240px;
 
     }
     .container {
@@ -142,13 +143,14 @@ h1{
     }
 
     .info {
-        font-size: 9.5px;
-        margin-top: 10px; 
-        margin-bottom: 50px; 
-        padding-left: 35px;
+       
+        font-size: 6.4px;
+        margin-top: 10px;
+        margin-bottom: 50px;
+        padding-left: 2px;
     }
     .info p {
-        margin: 8px;
+        margin: 6px;
         
     }
 
